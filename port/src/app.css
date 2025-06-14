@@ -1,0 +1,12 @@
+@import 'tailwindcss';
+
+html {
+    scroll-behavior: smooth;
+}
+* {
+    font-family: 'Savate';
+}
+
+h1, h2, h3, p {
+    font-family: 'Quicksand';
+}
