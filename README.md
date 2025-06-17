@@ -1,5 +1,5 @@
 ###🧽 SpongeBob Profile – Web App
-A fun and interactive SvelteKit project themed around the beloved character SpongeBob SquarePants! Built with modern tools like Tailwind CSS, particles.js, and a touch of Bikini Bottom personality.
+A fun and interactive SvelteKit project themed around the beloved character SpongeBob SquarePants! Built with modern tools like Tailwind CSS, particles.js, and a touch of Bikini Bottom personality. This project is just for fun. not monetizing or anything of the sort. Just using the character to showcase my skill.
 
 🌟 Features
 🎨 SpongeBob-themed UI with custom gradients and fonts
